@@ -1,5 +1,3 @@
-import React from "react";
-
 const News = () => {
   return (
     <div className="container mx-auto px-10 py-20">

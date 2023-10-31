@@ -1,10 +1,5 @@
-import React from "react";
 
 const Grid = () => {
-
-// add the geid system
-// edit the lenk of Learn more.
-
   return (
     <div className="container mx-auto px-8 py-20">
       <div className="text-center">
