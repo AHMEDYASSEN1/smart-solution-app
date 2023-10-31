@@ -13,7 +13,7 @@ const Login = () => {
         <form className=" text-center max-w-sm m-auto">
           <div>
             <label className="flex items-start text-[14px] text-[#2E343F]">Email</label>
-            <input className=" mt-2 w-full text-[16px] text-[#7f7f7f] border-[1px] rounded-sm py-2 px-2 outline-none" placeholder="Enter your email" type="text"></input>
+            <input className=" mt-2 w-full text-[16px] text-[#7f7f7f] border-[1px] rounded-md py-2 px-2 outline-none" placeholder="Enter your email" type="text"></input>
           </div>
           <div className="py-4">
             <label className="flex items-start text-[14px] text-[#2E343F]">Password</label>

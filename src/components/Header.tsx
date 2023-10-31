@@ -14,7 +14,7 @@ const Header = () => {
       <div className="flex justify-between items-center p-4 h-auto">
         <Link to="/">
           <div className="flex justify-center align-middle items-center cursor-pointer">
-            <img src="../../public/adsense.png" className="h-4 pr-2"></img>
+            <img src="/adsense.png" className="h-4 pr-2"></img>
             <h3 className="text-[#2E343F]">Smart Solution</h3>
           </div>
         </Link>
