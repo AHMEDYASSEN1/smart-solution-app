@@ -18,7 +18,7 @@ const OurCulture = () => {
           </button>
         </div>
         <div className="w-1/2 pl-2 lg:h-[37rem] md:h-[25rem] max-[768px]:hidden">
-          <img className=" w-full h-full" src="../../public/images/generic-content-pic.png"></img>
+          <img className=" w-full h-full" src="/images/generic-content-pic.png"></img>
         </div>
       </div>
     </div>
